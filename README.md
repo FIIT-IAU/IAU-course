@@ -4,7 +4,7 @@
 
 ### [Exercises / Cvičenia](https://github.com/FIIT-IAU/2023-2024/tree/master/exercises)
 
-### [Course conditions / Podmienky na absolvovanie predmetu](https://github.com/FIIT-IAU/2023-2024/tree/master/various) 
+### [Course conditions / Podmienky na absolvovanie predmetu](https://github.com/FIIT-IAU/2023-2024/blob/main/conditions.md) 
 
 ### MS Teams 
 
