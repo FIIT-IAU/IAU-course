@@ -1,0 +1,13 @@
+numpy
+scipy
+sympy
+pandas
+pandasql
+statsmodels
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+python-dateutil
+pyspark
+findspark
