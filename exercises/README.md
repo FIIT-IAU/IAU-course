@@ -2,7 +2,7 @@
 ### Exercises / Cvičenia - (Python) Jupyter Notebooks
 
 |     |        | Cvičenie (notebooks)                                 | Projekt                                      |
-| :---| :----: | ---------------------------------------------------: | : -------------------------------------------|
+| :---| :----: | ---------------------------------------------------: | :--------------------------------------------|
 | 1.  | 2022   | Python virtual environments                          | Hľadanie partnera na projekt                 |
 | 2.  | 2022   | Python a knižnice na prácu s dátami                  |                                              |
 | 3.  | 2022   | Základy prieskumnej analýzy a vizualizácie údajov    | **Zadanie projektu** + Organizácia v dvojiciach |
