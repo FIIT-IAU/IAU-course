@@ -2,7 +2,7 @@
 ### Exercises / Cvičenia - (Python) Jupyter Notebooks
 
 |     |        | Cvičenie (notebooks)                                 | Projekt                                      |
-| :---| :----: | ---------------------------------------------------: | -------------------------------------------: |
+| :---| :----: | ---------------------------------------------------: | : -------------------------------------------|
 | 1.  | 2022   | Python virtual environments                          | Hľadanie partnera na projekt                 |
 | 2.  | 2022   | Python a knižnice na prácu s dátami                  |                                              |
 | 3.  | 2022   | Základy prieskumnej analýzy a vizualizácie údajov    | **Zadanie projektu** + Organizácia v dvojiciach |
@@ -13,7 +13,7 @@
 | 8.  | 2022   | Výber a vyhodnotenie modelov                         |                                              |
 | 9.  | 2022   | Vybrané metódy strojového učenia                     | **Bonus** + Odovzdávanie 2. fázy do AISu do **20.11.2022 23:59**  |
 | 10. | 2022   | Stromové metódy strojového učenia                    |                                              |
-| 11. | 2022   | Vybrané architektúry hlbokého učenia CNN, RNN       |                                              |
+| 11. | 2022   | Vybrané architektúry hlbokého učenia CNN, RNN        |                                              |
 | 12. | 2022   | Optimalizácia + Apache Spark                         | Odovzdávanie 3. fázy do AISu do **15.12.2021 23:59**  |
 |     |        |                                                      |                                              |
 
