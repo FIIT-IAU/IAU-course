@@ -15,4 +15,4 @@
 | 10.     | [Deep Learning and Big Data Processing - DL/ML modeling](https://docs.google.com/presentation/d/1kagKwYfSMiC_rLKWZQiTmYJACt0vy49PqiXmb0zLpkw/present?usp=sharing) | [Hlboké učenie a spracovanie veľkých dát - DL/ML modelovanie](https://docs.google.com/presentation/d/1kagKwYfSMiC_rLKWZQiTmYJACt0vy49PqiXmb0zLpkw/present?usp=sharing)  
 | 11.     | [Numerical Optimization and Simulations](https://docs.google.com/presentation/d/1UQXpALe-FklNnUHIIrcHwcEKrEycMlRJXcTyVVs31vk/present?usp=sharing)                       | [Numerická optimalizácia a simulácie](https://docs.google.com/presentation/d/1UQXpALe-FklNnUHIIrcHwcEKrEycMlRJXcTyVVs31vk/present?usp=sharing)  |
 | 12.     | [Advanced Topics in Data Science and Artificial Intelligence](https://docs.google.com/presentation/d/1rAUZ_t3Obkag-C24i5_PLTltjiAyG1zSdLpAfcCmhOc/present?usp=sharing) | [Pokročilé témy v oblasti dátovej vedy a umelej inteligencie](https://docs.google.com/presentation/d/1rAUZ_t3Obkag-C24i5_PLTltjiAyG1zSdLpAfcCmhOc/present?usp=sharing) |
-|         | [Course Exam] | [Skúška] |
+|         | Course Exam | Skúška |
