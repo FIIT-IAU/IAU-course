@@ -1,8 +1,8 @@
 #  Intelligent Data Analysis - Inteligentná analýza údajov 
 
-### [Lectures / Prednášky](https://github.com/FIIT-IAU/2023-2024/tree/master/lectures)
+### [Lectures / Prednášky](https://github.com/FIIT-IAU/2023-2024/tree/main/lectures)
 
-### [Exercises / Cvičenia](https://github.com/FIIT-IAU/2023-2024/tree/master/exercises)
+### [Exercises / Cvičenia](https://github.com/FIIT-IAU/2023-2024/tree/main/exercises)
 
 ### [Course conditions / Podmienky na absolvovanie predmetu](https://github.com/FIIT-IAU/2023-2024/blob/main/conditions.md) 
 
