@@ -15,4 +15,4 @@
 | 10.     | [Deep Learning and Big Data Processing - DL/ML modeling]()  | [Hlboké učenie a spracovanie veľkých dát - DL/ML modelovanie]()  
 | 11.     | [Numerical Optimization and Simulations]()                  | [Numerická optimalizácia a simulácie]()  |
 | 12.     | [Advanced Topics in Data Science and Artificial Intelligence]() | [Pokročilé témy v oblasti dátovej vedy a umelej inteligencie]() |
-|         | Course Exam                                                 | Skúška |
+|         | [Course Exam]()                                             | [Skúška]() |
