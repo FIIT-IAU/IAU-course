@@ -12,22 +12,6 @@ Students will acquire a comprehensive understanding of **data science**, includi
 ### MS Teams 
 
 ### Course textbook / Učebnica predmetu / Základná literatúra / Base literature 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
-
-| Column One    | Column Two    |                                                                                                                                         
-| ---           | ---           |                                                                                                                                         
-| data cell one | data cell two | 
 
 - NGUYEN, G., 2022. **[Introduction to Data Science](https://elvira.fiit.stuba.sk/library/pdf-viewer/765297eb-be49-4013-857e-ad3438726942)**. The Edition of University Textbooks on Informatics and Information Technologies. Spektrum STU Publishing, ISBN 978-80-227-5193-3. <br>Available at FIIT STU e-library [ ELVIRA ](https://elvira.fiit.stuba.sk/) with AIS access.
 ```
