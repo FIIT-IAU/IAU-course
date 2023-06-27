@@ -36,4 +36,5 @@ Students will acquire a comprehensive understanding of data science, including f
 
 <p align="center">
     <img height=350px src="https://miro.medium.com/max/1200/1*mgXvzNcwfpnBawI6XTkVRg.png">
+    <img height=350px src="https://bkai.ai/wp-content/uploads/2021/07/Machine-Learning-Algorithms-Thuat-toan-Machine-Learning.png">
 </p>
