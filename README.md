@@ -1,5 +1,5 @@
 #  Intelligent Data Analysis - Inteligentná analýza údajov 
-Students will acquire a comprehensive understanding of **data science**, including fundamental concepts and data analysis techniques. They will realize the functioning of these techniques and develop an intuitive for building **intelligent applications** based on a data-driven approach. Furthermore, they will gain insight into the types of questions that can be addressed through data analysis and will develop the ability to apply and evaluate **machine learning** methods. Special emphasis is placed on data analysis and **data preprocessing**, with a coverage of basic machine learning methods, their evaluation, and comparison.
+Students will acquire a comprehensive understanding of **data science**, including fundamental concepts and data analysis techniques. They will realize the functioning of these techniques and develop an intuitive for **building intelligent applications** based on a data-driven approach. Furthermore, they will gain insight into the types of questions that can be addressed through data analysis and will develop the ability to apply and evaluate **machine learning** methods. Special emphasis is placed on data analysis and **data preprocessing**, with a coverage of basic machine learning methods, their evaluation, and comparison.
 
 ## Introduction to Data Science
 
