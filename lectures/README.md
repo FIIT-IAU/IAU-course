@@ -1,6 +1,6 @@
 ## Intelligent Data Analysis - Inteligentná analýza údajov - Introduction to Data Science 
 ### Lectures / Prednášky (to be updated) - STU GSuite access
-|         | [Course Organization](https://docs.google.com/presentation/d/1p3G7p9kgixGxA9sIAX3mg7Txnpi6w_BGucU-IMgz0kM/edit?usp=share_link)                                     | [Organizácia predmetu](https://docs.google.com/presentation/d/1p3G7p9kgixGxA9sIAX3mg7Txnpi6w_BGucU-IMgz0kM/edit?usp=share_link)   |
+| 1.      | [Course Organization](https://docs.google.com/presentation/d/1p3G7p9kgixGxA9sIAX3mg7Txnpi6w_BGucU-IMgz0kM/edit?usp=share_link)                                     | [Organizácia predmetu](https://docs.google.com/presentation/d/1p3G7p9kgixGxA9sIAX3mg7Txnpi6w_BGucU-IMgz0kM/edit?usp=share_link)   |
 | :-------| ----------------------------------------------------------: | :---------------------------------------------------------- |
 | 1.      | [Introduction to Data Science](https://docs.google.com/presentation/d/1RVMBCJ7rgnpTAfsNPzLU8NgNE7Uho3L22t3PzU6ZrDs/edit?usp=share_link)                            | [Úvod do inteligentnej analýzy údajov](https://docs.google.com/presentation/d/1RVMBCJ7rgnpTAfsNPzLU8NgNE7Uho3L22t3PzU6ZrDs/edit?usp=share_link)       |
 | 1.      | [Introduction to Data Processing in Python](https://docs.google.com/presentation/d/14UOkLSw9DBwW5MKoH0TMRpmNXzEiSrwq4dAKR85BnAs/edit?usp=share_link)               | [Úvod do spracovania údajov v jazyku Python](https://docs.google.com/presentation/d/14UOkLSw9DBwW5MKoH0TMRpmNXzEiSrwq4dAKR85BnAs/edit?usp=share_link) |
