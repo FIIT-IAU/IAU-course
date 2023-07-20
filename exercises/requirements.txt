@@ -7,5 +7,7 @@ statsmodels
 scikit-learn
 matplotlib
 seaborn
+mlxtend
+graphviz
+pydot
 jupyterlab
-

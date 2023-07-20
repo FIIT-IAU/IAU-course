@@ -1,0 +1,50 @@
+# https://medium.com/@angelgaspar/how-to-install-tensorflow-on-a-m1-m2-macbook-with-gpu-acceleration-acfeb988d27e
+#
+# conda env create -f conda-tf-m2.yml
+# conda activate iau-m2
+# 
+# CONDA ENV 
+#   conda env list				# list env
+#   conda remove --name {env_name} --all	# remove env
+#   conda list -n {env_name}			# list all packages in {env_name}
+# INSTALL
+#   conda env create -f filename.yml
+#   source activate {env_name}
+# UPDATE
+#   conda env update -f filename.yml        	# this is where the update magic happens
+#   source activate {env_name}
+# NOTE
+#   cookiecutter /path/to/dir			# project template
+#   pipreqs /path/to/dir			# list of imports --> requirements.txt 
+#   pip freeze					# list of libraries
+#   conda list -n {env_name}			# conda list of libraries in {env_name}
+# ZEEK BRO 
+#   bat 					# Bro Analysis Tools, optional with spark
+
+name: iau-m2
+channels:
+- apple
+- conda
+- conda-forge
+dependencies:
+- python=3.9
+- scipy
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+- plotly
+- jupyter
+- jupyterlab
+- h5py
+- mlxtend
+- graphviz
+- python-graphviz
+- pydot
+- ipywidgets
+- tensorflow-deps
+- pip
+- pip:
+  - tensorflow-macos
+# - tensorflow-metal
+  - numpy

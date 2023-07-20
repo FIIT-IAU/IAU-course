@@ -13,6 +13,7 @@ gensim
 category_encoders
 python-dateutil
 graphviz
+pydot
 plotly
 dash
 ipywidgets
@@ -20,5 +21,3 @@ mlxtend
 tensorflow
 keras
 h5py
-pyspark
-findspark
