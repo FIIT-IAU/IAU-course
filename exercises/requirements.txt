@@ -11,3 +11,4 @@ mlxtend
 graphviz
 pydot
 jupyterlab
+notebook
