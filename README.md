@@ -41,4 +41,4 @@ Students will acquire a comprehensive understanding of **data science process**,
 </p>
 
 
-## Connected course https://github.com/FIIT-ISA
+### Connected course https://github.com/FIIT-ISA
