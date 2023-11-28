@@ -5,6 +5,7 @@ pandas
 pandasql
 statsmodels
 scikit-learn
+scikit-optimize
 matplotlib
 seaborn
 jupyterlab
