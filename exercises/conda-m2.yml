@@ -29,6 +29,7 @@ channels:
 dependencies:
 - python=3.9
 - scipy
+- pyarrow
 - pandas
 - scikit-learn
 - scikit-optimize
@@ -42,6 +43,7 @@ dependencies:
 - graphviz
 - python-graphviz
 - pydot
+- wandb
 - ipywidgets
 - tensorflow-deps
 - pip
