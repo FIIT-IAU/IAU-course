@@ -1,6 +1,7 @@
 numpy
 scipy
 sympy
+pyarrow
 pandas
 pandasql
 statsmodels
@@ -16,6 +17,7 @@ python-dateutil
 graphviz
 pydot
 plotly
+wandb
 dash
 ipywidgets
 mlxtend  
