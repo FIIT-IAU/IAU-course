@@ -1,6 +1,7 @@
 numpy
 scipy
 sympy
+pyarrow
 pandas
 pandasql
 statsmodels
@@ -13,4 +14,4 @@ graphviz
 pydot
 jupyterlab
 notebook
-
+wandb
