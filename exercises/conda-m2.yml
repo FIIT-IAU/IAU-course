@@ -28,8 +28,8 @@ channels:
 - conda-forge
 dependencies:
 - python=3.9
-- scipy
 - pyarrow
+- scipy
 - pandas
 - scikit-learn
 - scikit-optimize
@@ -49,5 +49,5 @@ dependencies:
 - pip
 - pip:
   - tensorflow-macos
-# - tensorflow-metal
   - numpy
+- keras-tuner
