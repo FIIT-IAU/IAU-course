@@ -23,4 +23,5 @@ ipywidgets
 mlxtend  
 tensorflow
 keras
+keras-tuner
 h5py
