@@ -21,7 +21,7 @@ wandb
 dash
 ipywidgets
 mlxtend  
-tensorflow[and-cuda]
+tensorflow
 keras
 keras-tuner
 h5py
