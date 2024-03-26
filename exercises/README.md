@@ -14,7 +14,7 @@
 | 9.  | Vybrané metódy strojového učenia                     | Odovzdávanie 2. fázy do AISu do **19.11.2023 23:59**  + **Bonus**|
 | 10. | Stromové metódy strojového učenia                    |                                              |
 | 11. | Vybrané architektúry hlbokého učenia CNN, RNN        |                                              |
-| 12. | Optimalizácia                                        | Odovzdávanie 3. fázy do AISu do **10.12.2023 23:59**  |
+| 12. | Optimalizácia pre strojové učenie                    | Odovzdávanie 3. fázy do AISu do **10.12.2023 23:59**  |
 |     |                                                      |                                              |
 
 Bonusové zadanie: odovzdávanie do systému AIS do **19.12.2023 00:00**. Pozor: len jeden termín lebo ide skúšobné obdobie.
