@@ -10,7 +10,7 @@ Students will acquire a comprehensive understanding of **data science process**,
 
 ### [Course conditions / Podmienky na absolvovanie predmetu](https://github.com/FIIT-IAU/2023-2024/blob/main/conditions.md) 
 
-### [MS Teams](https://teams.microsoft.com/l/team/19%3arrUnuJjKV-YG4kstiPnXm7SweuH6pzK4Q6KSqOpnMq81%40thread.tacv2/conversations?groupId=6a89827f-cc2d-46ec-9b96-d915edcf21f1&tenantId=25733538-6b16-4aa3-8ed6-297eb79b8e06) 
+### MS Teams 
 
 ### Course textbook / Učebnica predmetu / Základná literatúra / Base literature 
 
