@@ -15,6 +15,7 @@ Students will acquire a comprehensive understanding of **data science process**,
 ### Course textbook / Učebnica predmetu / Základná literatúra / Base literature 
 
 - NGUYEN, G., 2022. **[Introduction to Data Science](https://elvira.fiit.stuba.sk)**. The Edition of University Textbooks on Informatics and Information Technologies. Spektrum STU Publishing, ISBN 978-80-227-5193-3. <br>Available at FIIT STU e-library [ ELVIRA ](https://elvira.fiit.stuba.sk/) with AIS access.
+<!--
 ```
     @book{nguyen2022ds,   
       author = {Nguyen, Giang},  
@@ -26,7 +27,7 @@ Students will acquire a comprehensive understanding of **data science process**,
       url = {https://elvira.fiit.stuba.sk}
     }
 ```
-
+//-->
 ### Recommended literature / Odporúčaná literatúra
 
 - GÉRON, A., 2022. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1098125975/dp/1098125975/ref=dp_ob_title_bk). O'Reilly Media, Inc. ISBN 978-1098125974. 3rd edition. 
