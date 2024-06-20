@@ -29,12 +29,12 @@
 > **xx.xx.202x 23:59** (1. fáza),
 > **xx.xx.202x 23:59** (2. fáza),
 > **xx.xx.202x 23:59** (3. fáza),
-> **12.12.202x 23:59** (aktivity a bonus).
+> **12.12.202x 23:59** (aktivity s bonusovým bodmi).
 > 
-> V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu do systému AIS bude možné danú fázu odovzdať o týždeň neskôr t.j. do
+> V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu a aktivít do systému AIS bude možné odovzdať o týždeň neskôr t.j. do
 > **xx.xx.202x 23:59** (1. fáza),
 > **xx.xx.202x 23:59** (2. fáza),
 > **xx.xx.202x 23:59** (3. fáza),
-> **17.12.202x 23:59** (aktivity a bonus).
+> **17.12.202x 23:59** (aktivity s bonusovým bodmi).
 > s **50% penalizáciou**. 
-> Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu bude mať za následok neudelenie zápočtu.
+> Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu a aktivít bude mať za následok neudelenie zápočtu.
