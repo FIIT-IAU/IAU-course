@@ -7,14 +7,14 @@
 | 2.  | Python a knižnice s dátami (pokračovanie)            | **Zadanie projektu**                                  |
 | 3.  | Prieskumná analýza a vizualizácie údajov             |   |
 | 4.  | Prieskumná analýza s využitím štatistickej analýzy   |   |
-| 5.  | ML: Predspracovanie dát pre strojové učenie          | Odovzdávanie 1. fázy do AISu do **xx.xx.202x 23:59**  |
-| 6.  | ML: Vyhodnocovanie a výber modelov                   |   |
-| 7.  | ML: Lineárna regresia a logistická regresia          | Odovzdávanie 2. fázy do AISu do **xx.xx.202x 23:59**  |
-| 8.  | ML: Rozhodovacie stromy                              |   |
-| 9.  | ML/NLP: Spracovanie textových dát                    |   |
-| 10. | DL: Convolutional Neural Network (CNN)               | Odovzdávanie 3. fázy do AISu do **xx.xx.202x 23:59**  |
-| 11. | DL: Recurrent Neural Network (RNN)	                 |   |
-| 12. | ML/DL: Optimalizačné techniky                        | Odovzdávanie aktivity do AISu do **12.12.202x 23:59** |
+| 5.  | Predspracovanie dát pre strojové učenie: ML          | Odovzdávanie 1. fázy do AISu do **xx.xx.202x 23:59**  |
+| 6.  | Vyhodnocovanie a výber modelov: ML                   |   |
+| 7.  | Lineárna regresia a logistická regresia: ML          | Odovzdávanie 2. fázy do AISu do **xx.xx.202x 23:59**  |
+| 8.  | Rozhodovacie stromy: ML                              |   |
+| 9.  | Spracovanie textových dát: ML/NLP                    |   |
+| 10. | Convolutional Neural Network (CNN): DL               | Odovzdávanie 3. fázy do AISu do **xx.xx.202x 23:59**  |
+| 11. | Recurrent Neural Network (RNN): DL	                 |   |
+| 12. | Optimalizačné techniky: ML/DL                        | Odovzdávanie aktivity do AISu do **12.12.202x 23:59** |
 |     |                                                      |   |
 
 Bonusové zadanie: odovzdávanie do systému AIS do **19.12.2023 00:00**. Pozor: len jeden termín lebo ide skúšobné obdobie.
