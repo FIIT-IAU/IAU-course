@@ -1,7 +1,7 @@
 # Deep learning architectures 
 
 - [TensorFlow and Keras: Convolutional Neural Network (CNN)](https://github.com/FIIT-IAU/IAU-course/tree/main/exercises/week-10)
-- [TensorFlow and Keras: Recurrent Neural Network (RNN)](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_113_RNN-tf-keras.ipynb)
+- [TensorFlow and Keras: Recurrent Neural Network (RNN)](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_113_RNN-tf-keras.ipynb) - this week
 
 # Weights & Biases (WandB)
 - [Using Weights & Biases (WandB) for Log Training](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_wandb_README.md)
