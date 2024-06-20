@@ -7,23 +7,30 @@
 ## Podmienky na absolvovanie predmetu
 Cvičenie a projekt vo dvojiciach: **max. 60% = 60 bodov**
 
-Práca na úlohách v rámci cvičení: 5% = 5 bodov
+Projekt:
+1. fáza - Prieskumná analýza: 15%
+2. fáza - Predspracovanie údajov: 15%
+3. fáza - Strojové učenie: 20%
 
-Projekt
-1. fáza - prieskumná analýza (v 6. týždni): 15% = 15 bodov
-2. fáza - predspracovanie údajov (v 9. týždni): 20% = 20 bodov
-3. fáza - strojové učenie (v 12. týždni): 20% = 20 bodov
+Aktivity v rámci cvičení: 10%
 
-Skúška: **max. 40% = 40 bodov**
+Skúška (písomná): **max. 40% = 40 bodov**
 
 ## Ďalšie podmienky pre úspešné absolvovanie predmetu:
+Ďalšie podmienky pre úspešné absolvovanie predmetu:
+1. aktívna účasť na cvičeniach
+2. vypracovanie projektu v akceptovateľnej kvalite, jeho odovzdanie a prezentovanie podľa harmonogramu
+3. získanie aspoň 30% z celkového hodnotenia počas semestra
+4. získanie aspoň 20% z celkového hodnotenia zo skúšky
+5. získanie aspoň 56% (bodov) v súčte z celkového hodnotenia za semester a skúšku podľa platnej klasifikačnej stupnice na FIIT STU
+
 1. vypracovanie projektu v akceptovateľnej kvalite, jeho odovzdanie a prezentovanie podľa harmonogramu
 2. aktívna účasť na cvičeniach
 3. získanie aspoň 30% = 30 bodov z celkového hodnotenia počas semestra
 4. získanie aspoň 20% = 20 bodov z celkového hodnotenia zo skúšky
 5. získanie aspoň 56% = 56 bodov v súčte z celkového hodnotenia za semester a skúšku podľa platnej klasifikačnej stupnice na FIIT STU
 
-V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu do systému AIS bude možné danú fázu odovzdať do 7 dní s 50% penalizáciou. Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu bude mať za následok neudelenie zápočtu.
+V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu a aktivít do systému AIS bude možné danú fázu odovzdať do 7 dní s 50% penalizáciou. Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu a aktivít bude mať za následok neudelenie zápočtu.
 
 Pre absolvovanie predmetu zároveň platia všeobecné podmienky absolvovania a hodnotenia predmetov. Hodnotenie študenta je súčet získaných bodov za cvičenie, projekt  a za skúšku. 
 
