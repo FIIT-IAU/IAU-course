@@ -12,8 +12,8 @@
 | 7.  | Lineárna regresia a logistická regresia: ML          | Odovzdávanie 2. fázy do AISu do **xx.xx.202x 23:59**  |
 | 8.  | Rozhodovacie stromy: ML                              |   |
 | 9.  | Spracovanie textových dát: ML/NLP                    |   |
-| 10. | Convolutional Neural Network: DL                     | Odovzdávanie 3. fázy do AISu do **xx.xx.202x 23:59**  |
-| 11. | Recurrent Neural Network: DL	                       |   |
+| 10. | Convolutional Neural Network (CNN)                   | Odovzdávanie 3. fázy do AISu do **xx.xx.202x 23:59**  |
+| 11. | Recurrent Neural Network (RNN)	                     |   |
 | 12. | Optimalizačné techniky: ML/DL                        | Odovzdávanie aktivity do AISu do **12.12.202x 23:59** |
 |     |                                                      |   |
 
