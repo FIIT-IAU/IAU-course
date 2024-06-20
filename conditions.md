@@ -36,5 +36,4 @@ Pre absolvovanie predmetu zároveň platia všeobecné podmienky absolvovania a 
 - ak získa menej ako 56 bodov je hodnotený klasifikačným stupňom FX. 
 
 Za samozrejmosť sa považuje dodržiavanie etiky a morálky, rovnako aj rešpektovanie zákonov, pravidiel korektnosti a čestnosti.
-
 Ak sa ho dopustíte, automaticky znamená neúspešné ukončenie predmetu (FX) a podnet na disciplinárnu komisiu.
