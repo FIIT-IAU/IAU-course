@@ -26,7 +26,7 @@ Skúška (písomná): **max. 40% = 40 bodov**
 
 V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu a aktivít do systému AIS bude možné danú fázu odovzdať do 7 dní s 50% penalizáciou. Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu a aktivít bude mať za následok neudelenie zápočtu.
 
-Pre absolvovanie predmetu zároveň platia všeobecné podmienky absolvovania a hodnotenia predmetov. Hodnotenie študenta je súčet získaných bodov za cvičenie, projekt, aktivít a za skúšku. 
+Pre absolvovanie predmetu zároveň platia všeobecné podmienky absolvovania a hodnotenia predmetov. Hodnotenie študenta je súčet získaných bodov za cvičenie, projekt, aktivity a za skúšku. 
 
 - Ak študent získa najmenej 92 bodov je hodnotený klasifikačným stupňom A, 
 - ak získa najmenej 83 bodov je hodnotený klasifikačným stupňom B, 
