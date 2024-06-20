@@ -17,8 +17,6 @@
 | 12. | Optimalizačné techniky: ML/DL                        | Odovzdávanie aktivity do AISu do **12.12.202x 23:59** |
 |     |                                                      |   |
 
-Bonusové zadanie: odovzdávanie do systému AIS do **19.12.2023 00:00**. Pozor: len jeden termín lebo ide skúšobné obdobie.
-
 ## Upozornenie
 
 > Odovzdávanie správy projektu sa realizuje v
