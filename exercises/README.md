@@ -37,6 +37,6 @@ Bonusové zadanie: odovzdávanie do systému AIS do **19.12.2023 00:00**. Pozor:
 > **xx.xx.202x 23:59** (1. fáza),
 > **xx.xx.202x 23:59** (2. fáza),
 > **xx.xx.202x 23:59** (3. fáza),
-> **15.12.202x 23:59** (aktivity a bonus).
+> **17.12.202x 23:59** (aktivity a bonus).
 > s **50% penalizáciou**. 
 > Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu bude mať za následok neudelenie zápočtu.
