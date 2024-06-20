@@ -1,7 +1,7 @@
 ## Intelligent Data Analysis - Inteligentná analýza údajov - Introduction to Data Science 
 ### Exercises / Cvičenia (to be updated) - Python Jupyter Notebooks
 
-|     | Cvičenie (notebooks)                                 | Projekt                                               |
+|     | Cvičenie (notebooks)                                 | Projekt a aktivity                                    |
 | ---:| ---------------------------------------------------: | :-----------------------------------------------------|
 | 1.  | Python na prácu s dátami, virtual environments       | Hľadanie partnera na projekt                          |
 | 2.  | Python a knižnice s dátami (advanced)                | **Zadanie projektu**                                  |
