@@ -37,4 +37,4 @@
 > **xx.xx.202x 23:59** (3. fáza),
 > **17.12.202x 23:59** (aktivity s bonusovým bodmi).
 > s **50% penalizáciou**. 
-> Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu a aktivít bude mať za následok neudelenie zápočtu.
+> Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu a aktivít bude mať za následok nesplneného predpokladu na skúšku (N).
