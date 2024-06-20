@@ -3,7 +3,7 @@
 
 |     | Cvičenie (notebooks)                                 | Projekt a aktivity                                    |
 | ---:| ---------------------------------------------------: | :-----------------------------------------------------|
-| 1.  | Python virtual environments, Python na prácu s dátami| Hľadanie partnera na projekt                          |
+| 1.  | Python a virtual environments                        | Organizácia cvičenia, hľadanie partnera na projekt    |
 | 2.  | Python a knižnice s dátami (advanced)                | **Zadanie projektu**                                  |
 | 3.  | Prieskumná analýza a vizualizácie údajov             |   |
 | 4.  | Prieskumná analýza s využitím štatistickej analýzy   |   |
