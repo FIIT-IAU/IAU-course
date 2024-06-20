@@ -24,7 +24,7 @@ Skúška (písomná): **max. 40% = 40 bodov**
 4. získanie aspoň 20% (bodov) z celkového hodnotenia zo skúšky
 5. získanie aspoň 56% (bodov) v súčte z celkového hodnotenia za semester a skúšku podľa platnej klasifikačnej stupnice na FIIT STU
 
-V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu a aktivít do systému AIS bude možné danú fázu odovzdať do 7 dní s 50% penalizáciou. Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu a aktivít bude mať za následok neudelenie zápočtu.
+V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu a aktivít do systému AIS bude možné danú fázu odovzdať do 7 dní s 50% penalizáciou. Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu a aktivít bude mať za následok nesplnený predpoklad na skúšku (N).
 
 Pre absolvovanie predmetu zároveň platia všeobecné podmienky absolvovania a hodnotenia predmetov. Hodnotenie študenta je súčet získaných bodov za cvičenie, projekt, aktivity a za skúšku. 
 
