@@ -20,19 +20,13 @@ Skúška (písomná): **max. 40% = 40 bodov**
 Ďalšie podmienky pre úspešné absolvovanie predmetu:
 1. aktívna účasť na cvičeniach
 2. vypracovanie projektu v akceptovateľnej kvalite, jeho odovzdanie a prezentovanie podľa harmonogramu
-3. získanie aspoň 30% z celkového hodnotenia počas semestra
-4. získanie aspoň 20% z celkového hodnotenia zo skúšky
+3. získanie aspoň 30% (bodov) z celkového hodnotenia počas semestra
+4. získanie aspoň 20% (bodov) z celkového hodnotenia zo skúšky
 5. získanie aspoň 56% (bodov) v súčte z celkového hodnotenia za semester a skúšku podľa platnej klasifikačnej stupnice na FIIT STU
-
-1. vypracovanie projektu v akceptovateľnej kvalite, jeho odovzdanie a prezentovanie podľa harmonogramu
-2. aktívna účasť na cvičeniach
-3. získanie aspoň 30% = 30 bodov z celkového hodnotenia počas semestra
-4. získanie aspoň 20% = 20 bodov z celkového hodnotenia zo skúšky
-5. získanie aspoň 56% = 56 bodov v súčte z celkového hodnotenia za semester a skúšku podľa platnej klasifikačnej stupnice na FIIT STU
 
 V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu a aktivít do systému AIS bude možné danú fázu odovzdať do 7 dní s 50% penalizáciou. Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu a aktivít bude mať za následok neudelenie zápočtu.
 
-Pre absolvovanie predmetu zároveň platia všeobecné podmienky absolvovania a hodnotenia predmetov. Hodnotenie študenta je súčet získaných bodov za cvičenie, projekt  a za skúšku. 
+Pre absolvovanie predmetu zároveň platia všeobecné podmienky absolvovania a hodnotenia predmetov. Hodnotenie študenta je súčet získaných bodov za cvičenie, projekt, aktivít a za skúšku. 
 
 - Ak študent získa najmenej 92 bodov je hodnotený klasifikačným stupňom A, 
 - ak získa najmenej 83 bodov je hodnotený klasifikačným stupňom B, 
