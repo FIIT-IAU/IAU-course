@@ -1,4 +1,4 @@
-## Natural Language Processing (NLP) and Machine Learning
+## Natural Language Processing (NLP) and Machine Learning (ML)
 - NLP Pipelines, NLTK, Stanza, Spacy, scikit-learn, …
 - Language Modeling
 - Text Classification with Machine Learning
