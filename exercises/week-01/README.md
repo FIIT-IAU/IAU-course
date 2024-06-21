@@ -7,5 +7,5 @@ https://github.com/FIIT-IAU/100-pandas-puzzles
 ## More about NumPy
 https://github.com/FIIT-IAU/numpy-100
 
-## Statmodels in Python
-https://github.com/FIIT-IAU/statsmodels
+## SciPy
+https://scipy.org/
