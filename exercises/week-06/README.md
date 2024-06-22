@@ -11,7 +11,7 @@
 - Spacy Industrial-Strength Natural Language Processing in Python https://spacy.io/
 - Hugging Face, the platform where the machine learning community collaborates on models, datasets, and applications https://huggingface.co/
 
-## More about Deep Learning: IAU week 10, 11, 12
+## More about Deep Learning
 - https://github.com/FIIT-IAU/IAU-course/tree/main/exercises/week-10
 
 ## Fundamentals of Generative AI and Deep Learning 
