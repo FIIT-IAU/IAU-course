@@ -1,39 +1,38 @@
-# Inteligentná analýza údajov - Intelligent Data Analysis
-**Typ štúdia:** bakalárske  
-**Počet kreditov:** 6  
-**Semester:** zimný     
-**Prednášky, Cvičenie**     
+# Intelligent Data Analysis
+**Study Type:** Bachelor's  
+**Credits:** 6  
+**Semester:** Winter  
+**Lectures, Exercises**
 
-## Podmienky na absolvovanie predmetu
-Cvičenie a projekt vo dvojiciach: **max. 60% = 60 bodov**
+## Course Completion Requirements
+Exercises and group project (in pairs): **max. 60% = 60 points**
 
-Projekt:
-1. fáza - Prieskumná analýza: 15%
-2. fáza - Predspracovanie údajov: 15%
-3. fáza - Strojové učenie: 20%
+Project:
+1. Phase - Exploratory Analysis: 15%
+2. Phase - Data Preprocessing: 15%
+3. Phase - Machine Learning: 20%
 
-Aktivity v rámci cvičení: 10%
+Activities during exercises: 10%
 
-Skúška (písomná): **max. 40% = 40 bodov**
+Exam (written): **max. 40% = 40 points**
 
-## Ďalšie podmienky pre úspešné absolvovanie predmetu:
-Ďalšie podmienky pre úspešné absolvovanie predmetu:
-1. aktívna účasť na cvičeniach
-2. vypracovanie projektu v akceptovateľnej kvalite, jeho odovzdanie a prezentovanie podľa harmonogramu
-3. získanie aspoň 30% (bodov) z celkového hodnotenia počas semestra
-4. získanie aspoň 20% (bodov) z celkového hodnotenia zo skúšky
-5. získanie aspoň 56% (bodov) v súčte z celkového hodnotenia za semester a skúšku podľa platnej klasifikačnej stupnice na FIIT STU
+## Additional Conditions for Successful Course Completion:
+Additional conditions for successfully passing the course:
+1. Active participation in exercises
+2. Completing the project at an acceptable quality, submitting it, and presenting it according to the schedule
+3. Gaining at least 30% (points) from the total evaluation during the semester
+4. Gaining at least 20% (points) from the total exam evaluation
+5. Achieving at least 56% (points) in total from the semester and exam evaluation according to the valid grading scale at FIIT STU
 
-V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu a aktivít do systému AIS bude možné danú fázu odovzdať do 7 dní s 50% penalizáciou. Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu a aktivít bude mať za následok nesplnený predpoklad na skúšku (N).
+If the deadline for submitting individual project phases or activities to the AIS system is missed, it will be possible to submit the respective phase within 7 days with a 50% penalty. Late submission beyond this will not be possible. Failure to submit any phase of the project or activities will result in an unmet prerequisite for the exam (grade N).
 
-Pre absolvovanie predmetu zároveň platia všeobecné podmienky absolvovania a hodnotenia predmetov. Hodnotenie študenta je súčet získaných bodov za cvičenie, projekt, aktivity a za skúšku. 
+General conditions for course completion and evaluation apply. A student's grade will be the sum of points earned from exercises, the project, activities, and the exam.
 
-- Ak študent získa najmenej 92 bodov je hodnotený klasifikačným stupňom A, 
-- ak získa najmenej 83 bodov je hodnotený klasifikačným stupňom B, 
-- ak získa najmenej 74 bodov je hodnotený klasifikačným stupňom C, 
-- ak získa najmenej 65 bodov je hodnotený klasifikačným stupňom D, 
-- ak získa najmenej 56 bodov je hodnotený klasifikačným stupňom E, 
-- ak získa menej ako 56 bodov je hodnotený klasifikačným stupňom FX. 
+- If a student earns at least 92 points, they will receive an A grade
+- If a student earns at least 83 points, they will receive a B grade
+- If a student earns at least 74 points, they will receive a C grade
+- If a student earns at least 65 points, they will receive a D grade
+- If a student earns at least 56 points, they will receive an E grade
+- If a student earns less than 56 points, they will receive an FX grade.
 
-Za samozrejmosť sa považuje dodržiavanie etiky a morálky, rovnako aj rešpektovanie zákonov, pravidiel korektnosti a čestnosti.
-Ak sa ho dopustíte, automaticky znamená neúspešné ukončenie predmetu (FX) a podnet na disciplinárnu komisiu.
+Adherence to ethics and morality is considered a standard, as is compliance with laws, fairness, and honesty. Violations will automatically result in course failure (FX) and a referral to the disciplinary committee.
