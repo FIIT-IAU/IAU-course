@@ -35,6 +35,6 @@
 > **27.10.2024 23:59** (Phase 1),
 > **10.11.2024 23:59** (Phase 2),
 > **01.12.2024 23:59** (Phase 3),
-> **05.12.2024 23:59** (activities with bonus points),
+> **15.12.2024 23:59** (activities with bonus points),
 > with a **50% penalty**.
 > Later submission will not be accepted. Failure to submit any phase of the project or activities will result in not meeting the prerequisites for the exam (N).
