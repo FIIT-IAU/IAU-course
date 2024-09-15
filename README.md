@@ -1,18 +1,18 @@
-#  Intelligent Data Analysis - Inteligentná analýza údajov 
+#  Intelligent Data Analysis 
 
 ### Introduction to Data Science 
 
 Students will acquire a comprehensive understanding of **data science process**, including fundamental concepts and data analysis techniques. They will realize the functioning of these techniques and develop an intuitive for **building intelligent applications** based on a data-driven approach. Furthermore, they will gain insight into the types of questions that can be addressed through data analysis and will develop the ability to apply and evaluate **machine learning methods**. Special emphasis is placed on data analysis and **data preprocessing**, with a coverage of basic machine learning methods, their evaluation, and comparison. 
 
-### [Lectures / Prednášky](https://github.com/FIIT-IAU/2023-2024/tree/main/lectures)
+### [Lectures](https://github.com/FIIT-IAU/2023-2024/tree/main/lectures)
 
-### [Exercises / Cvičenia](https://github.com/FIIT-IAU/2023-2024/tree/main/exercises)
+### [Exercises](https://github.com/FIIT-IAU/2023-2024/tree/main/exercises)
 
-### [Course conditions / Podmienky na absolvovanie predmetu](https://github.com/FIIT-IAU/2023-2024/blob/main/conditions.md) 
+### [Course conditions](https://github.com/FIIT-IAU/2023-2024/blob/main/conditions.md) 
 
 ### [MS Teams](https://teams.microsoft.com/l/team/19%3AP2v4TNalkt0t_8DK10wvO4ZWMzWXRYAFDyJnNKawyAM1%40thread.tacv2/conversations?groupId=1dea277e-e6cd-48c1-9bc9-b5eae89616bf&tenantId=25733538-6b16-4aa3-8ed6-297eb79b8e06) 
 
-### Course textbook / Učebnica predmetu / Základná literatúra / Base literature 
+### Course textbook / Base literature 
 
 - NGUYEN, G., 2022. **[Introduction to Data Science](https://elvira.fiit.stuba.sk)**. The Edition of University Textbooks on Informatics and Information Technologies. Spektrum STU Publishing, ISBN 978-80-227-5193-3. <br>Available at FIIT STU e-library [ ELVIRA ](https://elvira.fiit.stuba.sk/) with AIS access.
 <!--
@@ -28,7 +28,7 @@ Students will acquire a comprehensive understanding of **data science process**,
     }
 ```
 //-->
-### Recommended literature / Odporúčaná literatúra
+### Recommended literature
 
 - GÉRON, A., 2022. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1098125975/dp/1098125975/ref=dp_ob_title_bk). O'Reilly Media, Inc. ISBN 978-1098125974. 3rd edition. 
 
