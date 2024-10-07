@@ -1,7 +1,4 @@
-## Machine Learning modelling
-- Linear Regression
-- Logistic Regression
-- Real-world examples
-
-## scikit-learn ML in Python
-https://scikit-learn.org/stable/
+## Machine Learning modelling (continue)
+- Decision Trees
+- Variances of Decision Trees
+- Random Forest
