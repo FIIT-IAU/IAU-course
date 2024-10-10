@@ -9,7 +9,7 @@
 | 5.      | [Performance Evaluation and Model Selection - ML](https://docs.google.com/presentation/d/13BioH7h1X9bAYRja8hbqrS2x8eNL4Eiem4bSQnpUOdI/edit?usp=share_link)         |
 | 6.      | [Linear Regression and Logistic Regression - ML](https://docs.google.com/presentation/d/19RVvQfDFJKNSRVemGoW5wOSH6v-4a2QA5mKNXGvkHhA/edit?usp=share_link) |
 | 7.      | [Decision Trees - ML](https://docs.google.com/presentation/d/1OS9UG7fQu2wUfZYB1rWKZJi5xO8b9OF2NFybTvtQsxE/edit?usp=share_link)                            |
-| 8.      | [Textual Data Processing - ML](https://docs.google.com/presentation/d/1u-_AfOQYRHsNopvL-CuFbJUc03iiDnA7AtoPkrk68eU/edit?usp=share_link)                      |
+| 8.      | [Textual Data Processing - NLP/ML](https://docs.google.com/presentation/d/1u-_AfOQYRHsNopvL-CuFbJUc03iiDnA7AtoPkrk68eU/edit?usp=share_link)                      |
 | 9.      | [Deep Learning - DL](https://docs.google.com/presentation/d/1kz57wxahu6Ewbz-1sUUcKavn7PT2-EiIGfmeNC6N2w8/edit?usp=share_link)  |
 | 10.     | [Optimization Techniques in ML/DL](https://docs.google.com/presentation/d/1Fyr9zEQWX9kl-DtX4goyikInSJHH-npC71ej14u6gfY/edit?usp=share_link) |
 | 11.     | [Big Data Processing: Data Collection and Data Integration](https://docs.google.com/presentation/d/1lJ7yjadzyxGKHn_gur9uGfNCz_34DusXigKRCnJssy4/edit?usp=share_link)                    |
