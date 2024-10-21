@@ -11,7 +11,7 @@
 - [WandB for Musiker e-shop](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_03_LSTM-sale-trend-prediction-wandb.ipynb)
   
 ## Hyper-parameter tuning for deep learning models
-- [Keras tunner with HyperBand](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_03-keras-tuner-for-deep-learning-model-tuning.ipynb)
+- [Keras tunner with HyperBand](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12)
 
 ## Fundamentals of Generative AI and Deep Learning 
 - https://github.com/FIIT-ISA/ISA-course 
