@@ -10,6 +10,6 @@
 - Open source, commercially usable - BSD license
 - https://scikit-learn.org/stable/
 
-## [A Comprehensive Guide For scikit-learn Pipelines](https://mahmoudyusof.github.io/blog/scikit-learn-pipelines)
+## [A Comprehensive Guide for scikit-learn Pipelines](https://mahmoudyusof.github.io/blog/scikit-learn-pipelines)
 
 ## [Understanding Column Transformer and Machine Learning Pipelines](https://www.analyticsvidhya.com/blog/2021/05/understanding-column-transformer-and-machine-learning-pipelines/)
