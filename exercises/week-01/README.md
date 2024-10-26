@@ -9,3 +9,6 @@ https://github.com/FIIT-IAU/numpy-100
 
 ## SciPy
 https://scipy.org/
+
+## (Python) Dockers for DataScience
+https://github.com/FIIT-IAU/Dockers-for-DataScience
