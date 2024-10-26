@@ -3,5 +3,5 @@
 - Logistic Regression
 - Real-world examples
 
-## scikit-learn ML in Python
+## scikit-learn: Machine Learning in Python
 https://scikit-learn.org/stable/
