@@ -1,4 +1,5 @@
-#  Intelligent Data Analysis 
+#  Intelligent Data Analysis (IAU_B)
+- Inteligentná analýza údajov
 
 ### Introduction to Data Science 
 
