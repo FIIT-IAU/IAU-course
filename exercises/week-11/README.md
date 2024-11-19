@@ -15,3 +15,4 @@
 
 ## Fundamentals of Generative AI and Deep Learning 
 - https://github.com/FIIT-ISA/ISA-course 
+- [Encoder-Decoder](https://github.com/FIIT-ISA/ISA-course/blob/main/exercises/week-05/ISA_AED_image-denoising.ipynb)
