@@ -1,5 +1,5 @@
 ## Intelligent Data Analysis - Introduction to Data Science 
-### Lectures (to be updated) - STU GSuite access
+### Lectures - STU GSuite access
 |         | [Course Organization](https://docs.google.com/presentation/d/1p3G7p9kgixGxA9sIAX3mg7Txnpi6w_BGucU-IMgz0kM/present?usp=share_link)                                     |
 | :-------| ----------------------------------------------------------: |
 | 1.      | [Introduction to Data Science and Data Processing in Python](https://docs.google.com/presentation/d/1RVMBCJ7rgnpTAfsNPzLU8NgNE7Uho3L22t3PzU6ZrDs/edit?usp=share_link) |
