@@ -1,8 +1,8 @@
 ## Intelligent Data Analysis - Introduction to Data Science 
 ### Exercises - Python Jupyter Notebooks
 
-|     | Exercise (notebooks)                                | Project and activities                                 |
-| ---:| ---------------------------------------------------: | :----------------------------------------------------- |
+|     | Exercise                                            | Project and activities                                 |
+| ---:| --------------------------------------------------: | :----------------------------------------------------- |
 | 1.  | Python and virtual environments                     | Organization of the exercise, finding a partner for the project |
 | 2.  | Python and data libraries (advanced)                | **Project assignment**                                 |
 | 3.  | Exploratory data analysis and visualizations        |                                                        |
