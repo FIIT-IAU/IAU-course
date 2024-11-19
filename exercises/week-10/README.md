@@ -14,4 +14,5 @@
 - [Keras tunner with HyperBand](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12)
 
 ## Fundamentals of Generative AI and Deep Learning 
-- https://github.com/FIIT-ISA/ISA-course 
+- https://github.com/FIIT-ISA/ISA-course
+- [Encoder-Decoder](https://github.com/FIIT-ISA/ISA-course/blob/main/exercises/week-05/ISA_AED_image-denoising.ipynb)
