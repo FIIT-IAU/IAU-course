@@ -1,5 +1,5 @@
 ## Intelligent Data Analysis - Introduction to Data Science 
-### Exercises (to be updated) - Python Jupyter Notebooks
+### Exercises - Python Jupyter Notebooks
 
 |     | Exercise (notebooks)                                | Project and activities                                 |
 | ---:| ---------------------------------------------------: | :----------------------------------------------------- |
