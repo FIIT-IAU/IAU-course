@@ -15,4 +15,4 @@ The Keras Tuner currently supports four tuners:
 - Sklearn
 
 ## Understanding Bayesian Optimization
-[Bayesian Optimization](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_homework_Understanding-Bayesian-optimization.ipynb)
+- [Bayesian Optimization](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_homework_Understanding-Bayesian-optimization.ipynb)
