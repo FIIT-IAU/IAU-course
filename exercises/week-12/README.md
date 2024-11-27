@@ -1,7 +1,8 @@
 # Optimization for Machine Learning and Deep Learning
 
 ## Bayesian Optimization for ML hyperparameter tuning
- https://scikit-optimize.github.io
+- https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_01_bayesian-optimization-for-machine-learning.ipynb
+- https://scikit-optimize.github.io
 
 ## Hyperparameter Tuning for Deep Learning Models
 https://keras.io/guides/keras_tuner/
