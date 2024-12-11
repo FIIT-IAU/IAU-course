@@ -11,7 +11,7 @@ Students will acquire a comprehensive understanding of **data science process**,
 
 ### [Course conditions](https://github.com/FIIT-IAU/2023-2024/blob/main/conditions.md) 
 
-### [MS Teams](https://teams.microsoft.com/l/team/19%3AP2v4TNalkt0t_8DK10wvO4ZWMzWXRYAFDyJnNKawyAM1%40thread.tacv2/conversations?groupId=1dea277e-e6cd-48c1-9bc9-b5eae89616bf&tenantId=25733538-6b16-4aa3-8ed6-297eb79b8e06) 
+### MS Teams 
 
 ### Course textbook / Base literature 
 
