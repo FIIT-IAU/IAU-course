@@ -31,10 +31,6 @@
 > **24.11.2024 23:59** (Phase 3),
 > **08.12.2024 23:59** (activities with bonus points).
 >
-> If the submission deadline for the project phases and activities in AIS is missed, late submission is possible one week later, i.e., by:
-> **27.10.2024 23:59** (Phase 1),
-> **10.11.2024 23:59** (Phase 2),
-> **01.12.2024 23:59** (Phase 3),
-> **15.12.2024 23:59** (activities with bonus points),
+> If the submission deadline for the project phases and activities in AIS is missed, late submission is possible **one week later**
 > with a **50% penalty**.
 > Later submission will not be accepted. Failure to submit any phase of the project or activities will result in not meeting the prerequisites for the exam (N).
