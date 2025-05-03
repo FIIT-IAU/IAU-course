@@ -5,7 +5,7 @@
 - https://scikit-optimize.github.io
 
 ## Hyperparameter Tuning for Deep Learning Models
-### [Keras Tuner for DL](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_02-keras-tuner-for-deep-learning.ipynb)
+### [Keras Tuner for TensorFlow](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_02-keras-tuner-for-deep-learning.ipynb)
 - https://keras.io/guides/keras_tuner/
 
 The Keras Tuner currently supports four tuners:
