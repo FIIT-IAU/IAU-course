@@ -14,7 +14,7 @@ The Keras Tuner currently supports four tuners:
 - Bayesian Optimization
 - Sklearn
 
-### [Optuna tuner for Pytorch](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_03-optuna-tuning-for-pytorch.ipynb)
+### [Optuna hyper-parameter tuning for Pytorch](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_03-optuna-tuning-for-pytorch.ipynb)
 - https://optuna.org/
 
 ## Understanding Bayesian Optimization
