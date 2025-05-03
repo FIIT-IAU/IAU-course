@@ -5,7 +5,7 @@
 - https://scikit-optimize.github.io
 
 ## Hyperparameter Tuning for Deep Learning Models
-- [Keras Tuner for DL](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_02-keras-tuner-for-deep-learning.ipynb)
+### [Keras Tuner for DL](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_02-keras-tuner-for-deep-learning.ipynb)
 - https://keras.io/guides/keras_tuner/
 
 The Keras Tuner currently supports four tuners:
@@ -14,7 +14,7 @@ The Keras Tuner currently supports four tuners:
 - Bayesian Optimization
 - Sklearn
 
-- [Optuna tuner for Pytorch](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_03-optuna-tuning-for-pytorch.ipynb)
+### [Optuna tuner for Pytorch](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_03-optuna-tuning-for-pytorch.ipynb)
 
 ## Understanding Bayesian Optimization
 - [Bayesian Optimization](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_homework_Understanding-Bayesian-optimization.ipynb)
