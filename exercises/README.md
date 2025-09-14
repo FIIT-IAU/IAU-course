@@ -14,7 +14,7 @@
 | 9.  | Text Data Processing: ML/NLP                        |                                                        |
 | 10. | Convolutional Neural Networks (CNN)                 | Submission of Phase 3 to AIS                           |
 | 11. | Recurrent Neural Networks (RNN)                     |                                                        |
-| 12. | Optimization Techniques: ML/DL                      | Submission of activities and bonus to AIS              |
+| 12. | Optimization Techniques: ML/DL                      | Submission of activities with bonus points to AIS      |
 |     |                                                     |                                                        |
 
 ## Important Notice
