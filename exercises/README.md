@@ -14,16 +14,10 @@
 | 9.  | Text Data Processing: ML/NLP                        |                                                        |
 | 10. | Convolutional Neural Networks (CNN)                 | Submission of Phase 3 to AIS                           |
 | 11. | Recurrent Neural Networks (RNN)                     |                                                        |
-| 12. | Optimization Techniques: ML/DL                      | Submission of activities to AIS                        |
+| 12. | Optimization Techniques: ML/DL                      | Submission of activities and bonus to AIS              |
 |     |                                                     |                                                        |
 
 ## Important Notice
-
-> Project report submission is scheduled for:
-> Week 5 (Phase 1),
-> Week 7 (Phase 2),
-> Week 10 (Phase 3),
-> Week 12 (activities and bonus) during the exercise.
 >
 > The pair will present their results to the instructor in a Jupyter Notebook. One member of the pair will then electronically submit the report to the AIS system by:
 > **26.10.2025 23:59** (Phase 1),
