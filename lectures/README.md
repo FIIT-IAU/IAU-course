@@ -8,7 +8,7 @@
 | 4.      | [Data Cleaning and Data Preprocessing - ML](https://docs.google.com/presentation/d/15ZLn0B2z1KCNy3b5-HSxF6OEukZo4FQV8CWr0D9H_sw/edit?usp=share_link)               | ML: Predspracovanie dát pre strojové učenie |
 | 5.      | [Performance Evaluation and Model Selection - ML](https://docs.google.com/presentation/d/13BioH7h1X9bAYRja8hbqrS2x8eNL4Eiem4bSQnpUOdI/edit?usp=share_link)         | ML: Vyhodnocovanie a výber modelov |
 | 6.      | [Linear Regression and Logistic Regression - ML](https://docs.google.com/presentation/d/19RVvQfDFJKNSRVemGoW5wOSH6v-4a2QA5mKNXGvkHhA/edit?usp=share_link) | ML: Lineárna regresia a logistická regresia |
-| 7.      | [Decision Trees - ML](https://docs.google.com/presentation/d/1OS9UG7fQu2wUfZYB1rWKZJi5xO8b9OF2NFybTvtQsxE/edit?usp=share_link)   | ML: Rozhodovacie stromy |
+| 7.      | [Decision Trees - ML](https://docs.google.com/presentation/d/1aeSw-qbyiibrAs-PqHtqZzEwiUg8i6M4Y5Hb29tN3t4/edit?usp=sharing)   | ML: Rozhodovacie stromy |
 | 8.      | [Textual Data Processing - NLP/ML](https://docs.google.com/presentation/d/1u-_AfOQYRHsNopvL-CuFbJUc03iiDnA7AtoPkrk68eU/edit?usp=share_link)                      | ML/NLP: Spracovanie textových dát |
 | 9.      | [Deep Learning - DL](https://docs.google.com/presentation/d/1kz57wxahu6Ewbz-1sUUcKavn7PT2-EiIGfmeNC6N2w8/edit?usp=share_link)  | ML/DL: Hlboké učenie |
 | 10.     | [Optimization Techniques in ML/DL](https://docs.google.com/presentation/d/1Fyr9zEQWX9kl-DtX4goyikInSJHH-npC71ej14u6gfY/edit?usp=share_link) | ML/DL: Optimalizačné techniky |
