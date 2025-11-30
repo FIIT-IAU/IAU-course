@@ -1,7 +1,7 @@
 # Optimization for Machine Learning and Deep Learning
 
 ## Hyperparameter Tuning for Deep Learning Models
-### [Keras Tuner for TensorFlow](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_02-keras-tuner-for-deep-learning.ipynb)
+### [Keras Tuner for TensorFlow](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_01-keras-tuner-for-deep-learning.ipynb)
 - https://keras.io/guides/keras_tuner/
 
 The Keras Tuner currently supports four tuners:
@@ -10,7 +10,7 @@ The Keras Tuner currently supports four tuners:
 - Bayesian Optimization
 - Sklearn
 
-### [Optuna hyper-parameter tuning for Pytorch](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_03-optuna-tuning-for-pytorch.ipynb)
+### [Optuna hyper-parameter tuning for Pytorch](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_02-optuna-tuning-for-pytorch.ipynb)
 - https://optuna.org/
 
 ## Bayesian Optimization for ML hyperparameter tuning
