@@ -14,7 +14,7 @@ The Keras Tuner currently supports four tuners:
 - https://optuna.org/
 
 ## Bayesian Optimization for ML hyperparameter tuning
-- [Bayesian Optimization for ML](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_03_bayesian-optimization-for-machine-learning.ipynb)
+- [Bayesian Optimization for ML](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_homework_bayesian-optimization-for-machine-learning.ipynb)
 - https://scikit-optimize.github.io
 
 ## Understanding Bayesian Optimization
