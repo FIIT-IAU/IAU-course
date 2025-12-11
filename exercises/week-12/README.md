@@ -12,7 +12,7 @@ The Keras Tuner currently supports four tuners:
 ## [Optuna hyper-parameter tuning for Pytorch](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_02-optuna-tuning-for-pytorch.ipynb)
 - https://optuna.org/
 
-# Bayesian Optimization for ML hyperparameter tuning
+## Bayesian Optimization for ML hyperparameter tuning
 - [Bayesian Optimization for ML](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_homework_bayesian-optimization-for-machine-learning.ipynb)
 - https://scikit-optimize.github.io
 
