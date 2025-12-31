@@ -20,10 +20,10 @@
 ## Important Notice
 >
 > The pair will present their results to the instructor in a Jupyter Notebook. One member of the pair will then electronically submit the report to the AIS system by:
-> **26.10.2025 23:59** (Phase 1),
-> **09.11.2025 23:59** (Phase 2),
-> **30.11.2025 23:59** (Phase 3),
-> **14.12.2025 23:59** (activities with bonus points).
+> **week-05 Sunday 23:59** (Phase 1),
+> **week-07 Sunday 23:59** (Phase 2),
+> **week-10 Sunday 23:59** (Phase 3),
+> **week-12 Sunday 23:59** (activities with bonus points).
 >
 > If the submission deadline for the project phases and activities in AIS is missed, late submission is possible **one week later**
 > with a **50% penalty**.
