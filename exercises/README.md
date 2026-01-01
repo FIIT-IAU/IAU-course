@@ -12,9 +12,9 @@
 | 7.  | Linear and Logistic Regression: ML                  | Submission of Phase 2 to AIS                           |
 | 8.  | Decision Trees: ML                                  |                                                        |
 | 9.  | Text Data Processing: ML/NLP                        |                                                        |
-| 10. | Convolutional Neural Networks (CNN)                 | Submission of Phase 3 to AIS                           |
-| 11. | Recurrent Neural Networks (RNN)                     |                                                        |
-| 12. | Optimization Techniques: ML/DL                      | Submission of activities with bonus points to AIS      |
+| 10. | Deep Learning: CNN + RNN                            | Submission of Phase 3 to AIS                           |
+| 11. | Hyper-parameter tuning for DL                       |                                                        |
+| 12. | Finalization                                        | Submission of activities with bonus points to AIS      |
 |     |                                                     |                                                        |
 
 ## Important Notice
