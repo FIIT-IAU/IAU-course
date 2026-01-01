@@ -1,3 +1,3 @@
 # Final presentation and submission
 
-<img src="chatgpt-celebration.webp" width="300"/>
+<img src="chatgpt-celebration.png" width="300"/>
