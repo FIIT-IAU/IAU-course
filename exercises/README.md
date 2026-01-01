@@ -5,8 +5,8 @@
 | ---:| --------------------------------------------------: | :----------------------------------------------------- |
 | 1.  | Python and virtual environments                     | Organization of the exercise, finding a partner for the project |
 | 2.  | Python and data libraries (advanced)                | **Project assignment**                                 |
-| 3.  | Exploratory data analysis and visualizations        |                                                        |
-| 4.  | Exploratory analysis using statistical techniques   |                                                        |
+| 3.  | Exploratory data analysis and visualizations: EDA   |                                                        |
+| 4.  | Exploratory analysis using statistical techniques: EDA   |                                                        |
 | 5.  | Data preprocessing for ML                           | Submission of Phase 1 to AIS                           |
 | 6.  | Model evaluation and selection: ML                  |                                                        |
 | 7.  | Linear and Logistic Regression: ML                  | Submission of Phase 2 to AIS                           |
