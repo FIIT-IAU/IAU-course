@@ -7,7 +7,7 @@
 | 2.  | Python and data libraries (advanced)                | **Project assignment**                                 |
 | 3.  | Exploratory data analysis and visualizations        |                                                        |
 | 4.  | Exploratory analysis using statistical techniques   |                                                        |
-| 5.  | Data preprocessing for Machine Learning (ML)        | Submission of Phase 1 to AIS                           |
+| 5.  | Data preprocessing for ML                           | Submission of Phase 1 to AIS                           |
 | 6.  | Model evaluation and selection: ML                  |                                                        |
 | 7.  | Linear and Logistic Regression: ML                  | Submission of Phase 2 to AIS                           |
 | 8.  | Decision Trees: ML                                  |                                                        |
