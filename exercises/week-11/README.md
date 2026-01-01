@@ -14,14 +14,14 @@
   
 ### Hyper-parameter tuning for deep learning models
 [Keras tunner](https://keras.io/guides/keras_tuner/): currently supports four tuners: Hyperband, Bayesian Optimization, RandomSearch, and Sklearn
-- https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_02-keras-tuner-for-deep-learning.ipynb
+- [keras tuner for deep learning](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_02-keras-tuner-for-deep-learning.ipynb)
 
-[Optuna for PyTorch](https://optuna.org/)
-- https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_03-optuna-tuning-for-pytorch.ipynb
+[Optuna](https://optuna.org/)
+- [optuna tuning for pytorch](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_03-optuna-tuning-for-pytorch.ipynb)
 
 ### Bayesian Optimization for ML hyperparameter tuning
 [Bayesian Optimization for ML](https://scikit-optimize.github.io)
-- https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_homework_bayesian-optimization-for-machine-learning.ipynb)
+- [bayesian optimization for ML](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_homework_bayesian-optimization-for-machine-learning.ipynb)
 - [Understanding Bayesian Optimization](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_homework_Understanding-Bayesian-optimization.ipynb)
 
 # Foundation of Generative AI and Deep Learning 
