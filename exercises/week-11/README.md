@@ -1,4 +1,4 @@
-# Optimization (hyper-parameter tuning) for Deep Learning
+# Hyper-parameter tuning (optimization) for Deep Learning
 
 ### Weights & Biases (WandB)
 - [Using Weights & Biases (WandB) for Log Training](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_wandb_README.md)
