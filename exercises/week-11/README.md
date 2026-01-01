@@ -1,4 +1,4 @@
-## Optimization (hyper-parameter tuning) for Deep Learning
+# Optimization (hyper-parameter tuning) for Deep Learning
 
 ### Weights & Biases (WandB)
 - [Using Weights & Biases (WandB) for Log Training](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_wandb_README.md)
@@ -16,5 +16,5 @@
 - [Example: bayesian optimization for ML](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_homework_bayesian-optimization-for-machine-learning.ipynb)
 - [Understanding Bayesian Optimization](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_homework_Understanding-Bayesian-optimization.ipynb)
 
-## Foundation of Generative AI and Deep Learning 
+# Foundation of Generative AI and Deep Learning 
 - https://github.com/FIIT-ISA/ISA-course
