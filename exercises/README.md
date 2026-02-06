@@ -33,6 +33,6 @@
 ## Installation
 
 1. [Install ](https://docs.astral.sh/uv/getting-started/installation/) `uv` - universal package manager
-2. Run `uv sync` in inside
+2. Run `uv sync`
 3. Activate venv `source .venv/bin/activate`
 4. Done
