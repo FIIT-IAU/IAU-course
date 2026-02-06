@@ -1,0 +1,25 @@
+[project]
+name = "exercises"
+version = "0.1.0"
+description = "IAU-course exercises"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "graphviz>=0.21",
+    "jupyterlab>=4.5.3",
+    "matplotlib>=3.10.8",
+    "mlxtend>=0.24.0",
+    "notebook>=7.5.3",
+    "numpy>=2.4.2",
+    "pandas>=3.0.0",
+    "pandasql>=0.7.3",
+    "pyarrow>=23.0.0",
+    "pydot>=4.0.1",
+    "scikit-learn>=1.8.0",
+    "scikit-optimize>=0.10.2",
+    "scipy>=1.17.0",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
+    "sympy>=1.14.0",
+    "wandb>=0.24.2",
+]
