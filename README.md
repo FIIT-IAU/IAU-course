@@ -44,5 +44,5 @@ Students will acquire a comprehensive understanding of **data science process**,
 ### Connected course [https://github.com/FIIT-ISA](https://github.com/FIIT-ISA/ISA-course) at MSc/Ing level
 
 <p align="left">
-    <img height=60px src="https://giangzuzana.github.io/images/logo.png">
+    <img height=80px src="https://giangzuzana.github.io/images/logo.png">
 </p>
