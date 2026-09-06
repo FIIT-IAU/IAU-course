@@ -1,4 +1,4 @@
-# Intelligent Data Analysis
+# Introduction to Data Science - Inteligentná analýza údajov (IAU_B)
 **Study Type:** Bachelor's  
 **Credits:** 6  
 **Semester:** Winter  
