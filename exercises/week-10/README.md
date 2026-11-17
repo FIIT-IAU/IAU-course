@@ -7,5 +7,5 @@
 - [Recurrent Neural Network (RNN) - PyTorch](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-10/IAU_04_RNN_pytorch.ipynb)
 
 
-# Foundation of Generative AI and Deep Learning 
+# Foundation of Generative AI and Applied Machine Learning 
 - https://github.com/FIIT-ISA/ISA-course
